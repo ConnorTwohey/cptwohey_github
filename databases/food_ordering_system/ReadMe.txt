@@ -1,0 +1,1 @@
+MAMP was used throughput this project. To use the database, place all the PHP files into the htdocs folder in MAMP, and import the SQL file, as well as all the data files. Do these imports using PHPMyAdmin.
